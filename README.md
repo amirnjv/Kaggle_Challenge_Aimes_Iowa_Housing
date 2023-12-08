@@ -1,5 +1,3 @@
-# Analysis and Prediction of Residential Sale Prices in Ames Real Estate Project
-
 # Estimation of Housing Sale Prices for Innovative Real Estate Development
 ---
 
